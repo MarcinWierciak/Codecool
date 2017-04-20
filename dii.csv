@@ -1,0 +1,17 @@
+variable, Variables are nothing but reserved memory locations to store values. This means that when you create a variable you reserve some space in memory., https://www.tutorialspoint.com/python/ 
+ASCII table, Asciitable can read and write a wide range of ASCII table formats via built-in Extension Reader Classes., http://cxc.harvard.edu/contrib/asciitable/ 
+random, Generate pseudo-random numbers with various common distributions., https://docs.python.org/3.5/py-modindex.html 
+function, A function is a block of organized and reusable code that is used to perform a single and related action., https://www.tutorialspoint.com/python/python_functions.htm 
+string, Strings are amongst the most popular types in Python. We can create them simply by enclosing characters in quotes., https://www.tutorialspoint.com/python/python_strings.htm 
+tabnanny, Tool for detecting white space related problems in Python source files in a directory tree., https://docs.python.org/3.5/py-modindex.html 
+tuple, A tuple is a sequence of immutable Python objects., https://www.tutorialspoint.com/python/python_tuples.htm 
+pydoc, Documentation generator and online help system., https://docs.python.org/3.5/py-modindex.html 
+datetime, Basic date and time types., https://docs.python.org/3.5/py-modindex.html \t 
+dictionary, A Dictionary is a way to store data just like a list - but instead of using only numbers to get the data - you can use almost anything, https://learnpythonthehardway.org/book/ex39.html 
+list, The list is a most versatile datatype available in Python which can be written as a list of comma-separated values between square brackets., https://www.tutorialspoint.com/python/python_lists.htm functools, Higher-order functions and operations on callable objects., https://docs.python.org/3.5/py-modindex.html 
+parameter, A named entity in a function (or method) definition that specifies an argument that the function can accept., https://docs.python.org/3/glossary.html#term-parameter 
+calendar, Functions for working with calendars - including some emulation of the Unix cal program., https://docs.python.org/3.5/py-modindex.html 
+argument, An argument is simply a value provided to a function when you call it., http://stackoverflow.com/questions/14924825/what-are-arguments-in-python 
+math, Mathematical functions (sin() etc.)., https://docs.python.org/3.5/py-modindex.html 
+module, A module is a file containing Python definitions and statements., https://docs.python.org/3/tutorial/modules.html 
+xdrlib, Encoders and decoders for the External Data Representation (XDR)., https://docs.python.org/3.5/py-modindex.html
